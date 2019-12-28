@@ -39,4 +39,4 @@ Adding I param:D=1.6 and P = 0.06
   
 Final Values Selected **I= 0.004, D=1.6 and P = 0.06**  
 
-Here's a [link to my video result][![Alt text](https://img.youtube.com/vi/9vtaXm4QdrQ/0.jpg)](https://www.youtube.com/watch?v=9vtaXm4QdrQ)
+[![Alt text](https://img.youtube.com/vi/9vtaXm4QdrQ/0.jpg)](https://www.youtube.com/watch?v=9vtaXm4QdrQ)
